@@ -11,5 +11,6 @@ public class Quiz01 {
 		s = (short)c;
 		c = (char)s;
 		f = (float)5.11;
+		f = 5.11f;
 	}
 }
