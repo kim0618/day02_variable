@@ -23,4 +23,5 @@ public class Quiz02 {
 		System.out.println("수 학 : "+mat);
 		System.out.println("합 계 : "+sum);
 	}
+
 }
